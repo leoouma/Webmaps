@@ -1,2 +1,2 @@
 # Webmaps
-Fidling with LeafletJS to create some amazing maps
+Fidling with LeafletJS and Mapbox to create some amazing maps using some Kenyan Data
